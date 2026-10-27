@@ -32,4 +32,4 @@ Power BI Desktop, DAX
 2. Open `E-commerce_Customer_Segmentation_2026.pbix`
 
 ## Author
-Add your name / LinkedIn here
+Archana Shibu · [LinkedIn](https://www.linkedin.com/in/archana-shibu-4524692a2)
